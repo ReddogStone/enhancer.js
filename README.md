@@ -1,2 +1,2 @@
 # enhancer.js
-Simple, elegant, non-global state-management for JS. React hooks included.
+Simple, elegant, non-global state-management for JS/TS. React hooks included.
